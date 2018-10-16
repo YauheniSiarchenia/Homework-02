@@ -1,1 +1,1 @@
-FeatureFuture add v1.0
+FeatureFuture add v2.0
